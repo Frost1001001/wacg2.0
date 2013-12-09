@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+fieldset {
+	border: 0px;
+	margin-top: 150px;
+	text-align: center;
+	position: middle;
+}
+
+input {
+	border-radius: 20px;
+	box-shadow: 4px 4px #666;
+}
+
+#center {
+	align: center;
+	
+}
+
+p {
+	margin-top: 135px;
+}
